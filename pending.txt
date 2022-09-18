@@ -1,0 +1,13 @@
+
+// Toast for failure, success
+
+// portfolio: create document for individual, table , value, arithmatics
+
+//portfolio page ui, main, add , edit
+
+// personalize news, based on coins on portfolio page
+
+//Market screen :
+chart , line + candle stick
+
+

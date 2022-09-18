@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "440331552618",
+    "project_id": "cryptoclean-a929f",
+    "storage_bucket": "cryptoclean-a929f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440331552618:android:3fd321e89a3ca0a1930713",
+        "android_client_info": {
+          "package_name": "com.cryptoclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440331552618-8imj8v95h37sjdosp8upr060d0hiul5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cryptoclean",
+            "certificate_hash": "2463e167c96c3996276c9a4dfeb60f5a5c7dcdcd"
+          }
+        },
+        {
+          "client_id": "440331552618-9sgia6vldustc1fbe09l4o2pqjfct2cv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cryptoclean",
+            "certificate_hash": "dbfe2fbfc664b62e95d39df8235aa87396a26081"
+          }
+        },
+        {
+          "client_id": "440331552618-qmeinlp8mmfg7j7mcq2so39rraid4j1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz2_cF3dpKvkdH0fdvNCS_befmTW3liA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440331552618-qmeinlp8mmfg7j7mcq2so39rraid4j1d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440331552618-1m6irioee05ei3jt5rq9a588tajn4c11.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.CryptoClean"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
